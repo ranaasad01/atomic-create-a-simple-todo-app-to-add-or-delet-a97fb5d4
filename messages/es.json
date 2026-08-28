@@ -1,0 +1,329 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "dashboard": "Panel de control"
+  },
+  "footerCopy": {
+    "copyright": "© 2024 Todo App. Diseñado para el enfoque. Todas las tareas son privadas y están limitadas a tu cuenta."
+  },
+  "login": {
+    "hero": {
+      "heading": "Bienvenido de vuelta.",
+      "body": "Inicia sesión en tu cuenta y continúa donde lo dejaste. Tus tareas te están esperando."
+    },
+    "form": {
+      "heading": "Inicia sesión en Todo App",
+      "body": "Ingresa tu correo electrónico y contraseña para acceder a tu lista de tareas personal.",
+      "cta": "Iniciar sesión",
+      "emailLabel": "Correo electrónico",
+      "emailHint": "La dirección con la que te registraste",
+      "passwordLabel": "Contraseña",
+      "passwordHint": "Al menos 8 caracteres",
+      "forgotPassword": "¿Olvidaste tu contraseña?"
+    },
+    "signupLink": {
+      "body": "¿Aún no tienes cuenta?",
+      "cta": "Crear una cuenta gratuita"
+    },
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tu@ejemplo.com",
+    "errorEmailInvalid": "Por favor ingresa un correo electrónico válido",
+    "errorEmailRequired": "El correo electrónico es obligatorio",
+    "errorGeneric": "Algo salió mal. Por favor intenta de nuevo.",
+    "errorInvalidCredentials": "El correo electrónico o la contraseña son incorrectos",
+    "errorPasswordRequired": "La contraseña es obligatoria",
+    "errorPasswordShort": "La contraseña debe tener al menos 6 caracteres",
+    "heading": "Bienvenido de vuelta",
+    "loadingButton": "Iniciando sesión…",
+    "noAccount": "¿No tienes cuenta?",
+    "passwordLabel": "Contraseña",
+    "passwordPlaceholder": "Ingresa tu contraseña",
+    "signUpLink": "Registrarse",
+    "subheading": "Inicia sesión en tu cuenta para continuar",
+    "submitButton": "Iniciar sesión"
+  },
+  "signup": {
+    "hero": {
+      "heading": "Comienza de cero. Mantente enfocado.",
+      "body": "Crea tu cuenta gratuita y obtén una lista de tareas personal que siempre estará disponible cuando la necesites. Sin desorden, sin ruido — solo tu trabajo, organizado.",
+      "cta": "Crear cuenta gratuita"
+    },
+    "form": {
+      "heading": "Crea tu cuenta",
+      "body": "Regístrate con tu correo electrónico y una contraseña segura. Tus tareas son privadas y están limitadas solo a ti.",
+      "cta": "Registrarse",
+      "emailLabel": "Correo electrónico",
+      "emailHint": "La dirección que usarás para iniciar sesión cada vez",
+      "passwordLabel": "Contraseña",
+      "passwordHint": "Al menos 8 caracteres; elige algo que recuerdes",
+      "terms": {
+        "and": "Y",
+        "prefix": "Acepto la",
+        "privacyLink": "Política de Privacidad",
+        "suffix": "Sufijo",
+        "termsLink": "Términos de Servicio"
+      },
+      "confirmLabel": "Confirmar Contraseña",
+      "confirmPlaceholder": "Confirma tu contraseña",
+      "emailPlaceholder": "you@example.com",
+      "hidePassword": "Ocultar",
+      "loginLink": "Iniciar sesión",
+      "loginPrompt": "¿Ya tienes una cuenta?",
+      "nameLabel": "Nombre Completo",
+      "namePlaceholder": "John Doe",
+      "passwordPlaceholder": "Crea una contraseña",
+      "showPassword": "Mostrar",
+      "strengthLabel": "Fortaleza de contraseña",
+      "submit": "Crear cuenta",
+      "submitting": "Creando cuenta…",
+      "subtitle": "Únete a miles que gestionan tareas sin esfuerzo.",
+      "title": "Registrarse"
+    },
+    "loginLink": "¿Ya tienes una cuenta? Inicia sesión",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "andText": "y",
+    "badge": "Nuevo",
+    "confirmPasswordLabel": "Confirmar Contraseña",
+    "confirmPasswordPlaceholder": "Confirma tu contraseña",
+    "emailLabel": "Correo Electrónico",
+    "emailPlaceholder": "you@example.com",
+    "errorDuplicateEmail": "Este correo electrónico ya está registrado",
+    "errorEmailInvalid": "Por favor ingresa un correo electrónico válido",
+    "errorEmailRequired": "El correo electrónico es obligatorio",
+    "errorPasswordLength": "La contraseña debe tener al menos 6 caracteres",
+    "errorPasswordMatch": "Las contraseñas no coinciden",
+    "errors": {
+      "confirmRequired": "Por favor confirma tu contraseña",
+      "emailInvalid": "Por favor ingresa un correo electrónico válido",
+      "emailRequired": "El correo electrónico es obligatorio",
+      "nameRequired": "El nombre es obligatorio",
+      "passwordLength": "La contraseña debe tener al menos 6 caracteres",
+      "passwordMismatch": "Las contraseñas no coinciden",
+      "passwordRequired": "La contraseña es obligatoria"
+    },
+    "heading": "Comenzar",
+    "headline": "Crea tu cuenta",
+    "hidePassword": "Ocultar",
+    "loadingButton": "Configurando…",
+    "orDivider": "o",
+    "passwordHint": "Usa al menos 8 caracteres con mayúsculas, minúsculas y números.",
+    "passwordLabel": "Contraseña",
+    "passwordPlaceholder": "Ingresa tu contraseña",
+    "privacyLink": "Política de Privacidad",
+    "showPassword": "Mostrar contraseña",
+    "strength": {
+      "fair": "Aceptable",
+      "good": "Buena",
+      "strong": "Fuerte",
+      "weak": "Débil"
+    },
+    "strengthFair": "Aceptable",
+    "strengthGood": "Buena",
+    "strengthStrong": "Fuerte",
+    "strengthWeak": "Débil",
+    "subheading": "Comienza a organizar tus tareas hoy",
+    "subheadline": "Gratis para siempre. Sin tarjeta de crédito requerida.",
+    "submitButton": "Crear cuenta",
+    "success": {
+      "body": "Tu cuenta está lista. Comienza a agregar tareas y aumenta tu productividad.",
+      "cta": "Ir al panel",
+      "title": "¡Bienvenido!"
+    },
+    "successButton": "Continuar a la aplicación",
+    "successMessage": "Cuenta creada exitosamente.",
+    "termsLink": "Términos de Servicio",
+    "termsText": "Acepto los Términos de Servicio y la Política de Privacidad",
+    "testimonial": {
+      "name": "Sarah Chen",
+      "quote": "Esta aplicación transformó cómo gestiono mis tareas diarias. Simple, rápida y exactamente lo que necesitaba.",
+      "role": "Gerente de Producto"
+    }
+  },
+  "dashboard": {
+    "header": {
+      "heading": "Es bueno verte de nuevo.",
+      "body": "Aquí están todas tus tareas para hoy. Mantente enfocado — una cosa a la vez."
+    },
+    "addTask": "Agregar Tarea",
+    "taskList": {
+      "heading": "Tus Tareas",
+      "body": "Todo en tu lista, en un solo lugar. Haz clic en el icono de papelera junto a cualquier tarea para eliminarla cuando termines."
+    },
+    "emptyState": {
+      "heading": "Sin tareas aún — todo está claro.",
+      "body": "Tu lista está vacía. Añade tu primera tarea arriba y comienza a hacer progreso hoy.",
+      "cta": "Añade tu primera tarea"
+    },
+    "addHeading": "Añadir una Nueva Tarea",
+    "addSectionLabel": "Nueva Tarea",
+    "badge": "Pro",
+    "deleteTask": "Eliminar",
+    "emptyDesc": "Sin tareas aún. Crea una para empezar.",
+    "emptyTitle": "Tu lista de tareas está vacía",
+    "error": {
+      "empty": "La tarea no puede estar vacía",
+      "tooLong": "La tarea debe tener menos de 100 caracteres"
+    },
+    "headerLabel": "Gestor de Tareas",
+    "heading": "Mis Tareas",
+    "input": {
+      "addAriaLabel": "Añadir una nueva tarea",
+      "addButton": "Añadir",
+      "label": "Tarea",
+      "placeholder": "¿Qué necesita hacerse?"
+    },
+    "list": {
+      "ariaLabel": "Lista de tareas",
+      "empty": "Sin tareas para mostrar",
+      "heading": "Tareas"
+    },
+    "listHeading": "Tus Tareas",
+    "listLabel": "Tareas Activas",
+    "logout": "Cerrar Sesión",
+    "progress": {
+      "label": "Progreso",
+      "summary": "Estás haciendo progreso"
+    },
+    "statDone": "Completadas",
+    "statPending": "Pendientes",
+    "statTotal": "Total",
+    "stats": {
+      "completed": "Hecho",
+      "pending": "Por Hacer",
+      "total": "Todas las Tareas"
+    },
+    "subheading": "Mantente enfocado y productivo",
+    "task": {
+      "delete": "Eliminar tarea",
+      "markComplete": "Marcar como completada",
+      "markIncomplete": "Marcar como incompleta"
+    },
+    "taskPlaceholder": "Ingresa la descripción de la tarea",
+    "taskRequired": "Por favor ingresa una tarea",
+    "welcome": "Bienvenido de vuelta"
+  },
+  "cta": {
+    "button": "Comenzar",
+    "heading": "¿Listo para mantenerte organizado?",
+    "login": "Iniciar Sesión",
+    "subhead": "Crea tu cuenta y comienza a gestionar tareas en segundos."
+  },
+  "features": {
+    "eyebrow": "Por Qué Elegirnos",
+    "heading": "Gestión de Tareas Simple y Potente",
+    "subhead": "Todo lo que necesitas para mantenerte organizado y en el camino correcto."
+  },
+  "hero": {
+    "badge": "La Forma Inteligente de Gestionar Tareas",
+    "cta_primary": "Comenzar Gratis",
+    "cta_secondary": "Más Información",
+    "headline": "Haz las Cosas",
+    "mock_placeholder": "Tus tareas aquí",
+    "mock_task1": "Revisar propuesta del proyecto",
+    "mock_task2": "Enviar comentarios del cliente",
+    "mock_task3": "Eliminar tareas completadas",
+    "subhead": "Mantente organizado con un gestor de tareas simple y rápido. Regístrate gratis y comienza a rastrear tus pendientes hoy."
+  },
+  "how": {
+    "cta": "Comenzar",
+    "eyebrow": "Cómo funciona",
+    "heading": "Tres pasos simples hacia la productividad",
+    "subhead": "Crea, gestiona y completa tus tareas en segundos."
+  },
+  "testimonials": {
+    "eyebrow": "Confiado por usuarios",
+    "heading": "Lo que dicen nuestros usuarios"
+  },
+  "footer": [
+    {
+      "text": "Todo App — simple, fast, personal task management"
+    },
+    {
+      "text": "Your data is stored securely and never shared"
+    },
+    {
+      "text": "Sign up at /signup · Log in at /login"
+    }
+  ],
+  "login-form": [
+    {
+      "label": "Email address",
+      "hint": "The address you signed up with"
+    },
+    {
+      "label": "Password",
+      "hint": "At least 8 characters"
+    },
+    {
+      "label": "Sign In",
+      "hint": "Submits credentials and redirects to your dashboard"
+    },
+    {
+      "label": "Forgot password?",
+      "hint": "Link to reset your password via email"
+    }
+  ],
+  "signup-form": [
+    {
+      "label": "Email address",
+      "hint": "The address you'll use to log in every time"
+    },
+    {
+      "label": "Password",
+      "hint": "At least 8 characters; choose something you'll remember"
+    },
+    {
+      "label": "Terms",
+      "hint": "By signing up you agree to keep things simple and stay productive"
+    }
+  ],
+  "header": [
+    {
+      "text": "Todo App — your personal task workspace"
+    },
+    {
+      "text": "Logged in and ready to go"
+    },
+    {
+      "text": "Log out anytime from the top-right corner"
+    }
+  ],
+  "add-task-form": [
+    {
+      "text": "Task input — e.g. 'Review project proposal by Friday'"
+    },
+    {
+      "text": "Press Enter or click Add Task to save"
+    },
+    {
+      "text": "Tasks are saved to your account and persist across sessions"
+    }
+  ],
+  "task-list": [
+    {
+      "text": "Each task shows the title you entered and a delete button on the right"
+    },
+    {
+      "text": "Tasks are ordered by most recently added — newest at the top"
+    },
+    {
+      "text": "Deleting a task is instant and permanent — no undo, so be sure"
+    },
+    {
+      "text": "Only you can see your tasks — they're private to your account"
+    }
+  ],
+  "empty-state": [
+    {
+      "text": "Nothing pending — enjoy the moment or plan your next move"
+    },
+    {
+      "text": "Use the form above to capture anything on your mind"
+    },
+    {
+      "text": "Your tasks will appear here as soon as you add them"
+    }
+  ]
+}

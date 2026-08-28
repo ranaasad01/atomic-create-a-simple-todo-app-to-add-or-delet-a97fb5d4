@@ -1,0 +1,329 @@
+{
+  "nav": {
+    "home": "Home",
+    "login": "Login",
+    "signup": "Sign Up",
+    "dashboard": "Dashboard"
+  },
+  "footer": [
+    {
+      "text": "Todo App — simple, fast, personal task management"
+    },
+    {
+      "text": "Your data is stored securely and never shared"
+    },
+    {
+      "text": "Sign up at /signup · Log in at /login"
+    }
+  ],
+  "footerCopy": {
+    "copyright": "© 2024 Todo App. Built for focus. All tasks are private and scoped to your account."
+  },
+  "login": {
+    "hero": {
+      "heading": "Welcome back.",
+      "body": "Sign in to your account and pick up right where you left off. Your tasks are waiting."
+    },
+    "form": {
+      "heading": "Sign in to Todo App",
+      "body": "Enter your email and password to access your personal task list.",
+      "cta": "Sign In",
+      "emailLabel": "Email address",
+      "emailHint": "The address you signed up with",
+      "passwordLabel": "Password",
+      "passwordHint": "At least 8 characters",
+      "forgotPassword": "Forgot password?"
+    },
+    "signupLink": {
+      "body": "Don't have an account yet?",
+      "cta": "Create a free account"
+    },
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@example.com",
+    "errorEmailInvalid": "Please enter a valid email address",
+    "errorEmailRequired": "Email is required",
+    "errorGeneric": "Something went wrong. Please try again.",
+    "errorInvalidCredentials": "Email or password is incorrect",
+    "errorPasswordRequired": "Password is required",
+    "errorPasswordShort": "Password must be at least 6 characters",
+    "heading": "Welcome back",
+    "loadingButton": "Signing in…",
+    "noAccount": "Don't have an account?",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "signUpLink": "Sign up",
+    "subheading": "Sign in to your account to continue",
+    "submitButton": "Sign in"
+  },
+  "login-form": [
+    {
+      "label": "Email address",
+      "hint": "The address you signed up with"
+    },
+    {
+      "label": "Password",
+      "hint": "At least 8 characters"
+    },
+    {
+      "label": "Sign In",
+      "hint": "Submits credentials and redirects to your dashboard"
+    },
+    {
+      "label": "Forgot password?",
+      "hint": "Link to reset your password via email"
+    }
+  ],
+  "signup": {
+    "hero": {
+      "heading": "Start fresh. Stay focused.",
+      "body": "Create your free account and get a personal task list that's always there when you need it. No clutter, no noise — just your work, organized.",
+      "cta": "Create free account"
+    },
+    "form": {
+      "heading": "Create your account",
+      "body": "Sign up with your email and a secure password. Your tasks are private and scoped only to you.",
+      "cta": "Sign up",
+      "emailLabel": "Email address",
+      "emailHint": "The address you'll use to log in every time",
+      "passwordLabel": "Password",
+      "passwordHint": "At least 8 characters; choose something you'll remember",
+      "terms": {
+        "and": "And",
+        "prefix": "I agree to the",
+        "privacyLink": "Privacy Policy",
+        "suffix": "Suffix",
+        "termsLink": "Terms of Service"
+      },
+      "confirmLabel": "Confirm Password",
+      "confirmPlaceholder": "Confirm your password",
+      "emailPlaceholder": "you@example.com",
+      "hidePassword": "Hide",
+      "loginLink": "Sign in",
+      "loginPrompt": "Already have an account?",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "John Doe",
+      "passwordPlaceholder": "Create a password",
+      "showPassword": "Show",
+      "strengthLabel": "Password strength",
+      "submit": "Create account",
+      "submitting": "Creating account…",
+      "subtitle": "Join thousands managing tasks effortlessly.",
+      "title": "Sign up"
+    },
+    "loginLink": "Already have an account? Log in",
+    "alreadyHaveAccount": "Already have an account?",
+    "andText": "and",
+    "badge": "New",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@example.com",
+    "errorDuplicateEmail": "This email is already registered",
+    "errorEmailInvalid": "Please enter a valid email address",
+    "errorEmailRequired": "Email is required",
+    "errorPasswordLength": "Password must be at least 6 characters",
+    "errorPasswordMatch": "Passwords do not match",
+    "errors": {
+      "confirmRequired": "Please confirm your password",
+      "emailInvalid": "Please enter a valid email address",
+      "emailRequired": "Email is required",
+      "nameRequired": "Name is required",
+      "passwordLength": "Password must be at least 6 characters",
+      "passwordMismatch": "Passwords do not match",
+      "passwordRequired": "Password is required"
+    },
+    "heading": "Get started",
+    "headline": "Create your account",
+    "hidePassword": "Hide",
+    "loadingButton": "Setting up…",
+    "orDivider": "or",
+    "passwordHint": "Use at least 8 characters with uppercase, lowercase, and numbers.",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "privacyLink": "Privacy Policy",
+    "showPassword": "Show password",
+    "strength": {
+      "fair": "Fair",
+      "good": "Good",
+      "strong": "Strong",
+      "weak": "Weak"
+    },
+    "strengthFair": "Fair",
+    "strengthGood": "Good",
+    "strengthStrong": "Strong",
+    "strengthWeak": "Weak",
+    "subheading": "Start organizing your tasks today",
+    "subheadline": "Free forever. No credit card required.",
+    "submitButton": "Create account",
+    "success": {
+      "body": "Your account is ready. Start adding tasks and boost your productivity.",
+      "cta": "Go to dashboard",
+      "title": "Welcome aboard!"
+    },
+    "successButton": "Continue to app",
+    "successMessage": "Account created successfully.",
+    "termsLink": "Terms of Service",
+    "termsText": "I agree to the Terms of Service and Privacy Policy",
+    "testimonial": {
+      "name": "Sarah Chen",
+      "quote": "This app transformed how I manage my daily tasks. Simple, fast, and exactly what I needed.",
+      "role": "Product Manager"
+    }
+  },
+  "signup-form": [
+    {
+      "label": "Email address",
+      "hint": "The address you'll use to log in every time"
+    },
+    {
+      "label": "Password",
+      "hint": "At least 8 characters; choose something you'll remember"
+    },
+    {
+      "label": "Terms",
+      "hint": "By signing up you agree to keep things simple and stay productive"
+    }
+  ],
+  "dashboard": {
+    "header": {
+      "heading": "Good to see you back.",
+      "body": "Here are all your tasks for today. Stay focused — one thing at a time."
+    },
+    "addTask": "Add Task",
+    "taskList": {
+      "heading": "Your Tasks",
+      "body": "Everything on your plate, in one place. Click the trash icon next to any task to remove it when you're done."
+    },
+    "emptyState": {
+      "heading": "No tasks yet — you're all clear.",
+      "body": "Your list is empty. Add your first task above and start making progress today.",
+      "cta": "Add your first task"
+    },
+    "addHeading": "Add a New Task",
+    "addSectionLabel": "New Task",
+    "badge": "Pro",
+    "deleteTask": "Delete",
+    "emptyDesc": "No tasks yet. Create one to get started.",
+    "emptyTitle": "Your task list is empty",
+    "error": {
+      "empty": "Task cannot be empty",
+      "tooLong": "Task must be under 100 characters"
+    },
+    "headerLabel": "Task Manager",
+    "heading": "My Tasks",
+    "input": {
+      "addAriaLabel": "Add a new task",
+      "addButton": "Add",
+      "label": "Task",
+      "placeholder": "What needs to be done?"
+    },
+    "list": {
+      "ariaLabel": "Task list",
+      "empty": "No tasks to display",
+      "heading": "Tasks"
+    },
+    "listHeading": "Your Tasks",
+    "listLabel": "Active Tasks",
+    "logout": "Sign Out",
+    "progress": {
+      "label": "Progress",
+      "summary": "You're making progress"
+    },
+    "statDone": "Completed",
+    "statPending": "Pending",
+    "statTotal": "Total",
+    "stats": {
+      "completed": "Done",
+      "pending": "To Do",
+      "total": "All Tasks"
+    },
+    "subheading": "Stay focused and productive",
+    "task": {
+      "delete": "Remove task",
+      "markComplete": "Mark complete",
+      "markIncomplete": "Mark incomplete"
+    },
+    "taskPlaceholder": "Enter task description",
+    "taskRequired": "Please enter a task",
+    "welcome": "Welcome back"
+  },
+  "header": [
+    {
+      "text": "Todo App — your personal task workspace"
+    },
+    {
+      "text": "Logged in and ready to go"
+    },
+    {
+      "text": "Log out anytime from the top-right corner"
+    }
+  ],
+  "add-task-form": [
+    {
+      "text": "Task input — e.g. 'Review project proposal by Friday'"
+    },
+    {
+      "text": "Press Enter or click Add Task to save"
+    },
+    {
+      "text": "Tasks are saved to your account and persist across sessions"
+    }
+  ],
+  "task-list": [
+    {
+      "text": "Each task shows the title you entered and a delete button on the right"
+    },
+    {
+      "text": "Tasks are ordered by most recently added — newest at the top"
+    },
+    {
+      "text": "Deleting a task is instant and permanent — no undo, so be sure"
+    },
+    {
+      "text": "Only you can see your tasks — they're private to your account"
+    }
+  ],
+  "empty-state": [
+    {
+      "text": "Nothing pending — enjoy the moment or plan your next move"
+    },
+    {
+      "text": "Use the form above to capture anything on your mind"
+    },
+    {
+      "text": "Your tasks will appear here as soon as you add them"
+    }
+  ],
+  "cta": {
+    "button": "Get Started",
+    "heading": "Ready to stay organized?",
+    "login": "Sign In",
+    "subhead": "Create your account and start managing tasks in seconds."
+  },
+  "features": {
+    "eyebrow": "Why Choose Us",
+    "heading": "Simple, Powerful Task Management",
+    "subhead": "Everything you need to stay organized and on track."
+  },
+  "hero": {
+    "badge": "The Smart Way to Manage Tasks",
+    "cta_primary": "Start Free",
+    "cta_secondary": "Learn More",
+    "headline": "Get Things Done",
+    "mock_placeholder": "Your tasks here",
+    "mock_task1": "Review project proposal",
+    "mock_task2": "Send client feedback",
+    "mock_task3": "Delete completed tasks",
+    "subhead": "Stay organized with a simple, fast task manager. Sign up free and start tracking your to-dos today."
+  },
+  "how": {
+    "cta": "Get Started",
+    "eyebrow": "How it works",
+    "heading": "Three simple steps to productivity",
+    "subhead": "Create, manage, and complete your tasks in seconds."
+  },
+  "testimonials": {
+    "eyebrow": "Trusted by users",
+    "heading": "What our users say"
+  }
+}
